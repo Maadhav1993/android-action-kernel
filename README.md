@@ -27,7 +27,7 @@
 
 **[⭐ Star this repo (1100+ → 1,500 goal!)](https://github.com/actionstatelabs/android-action-kernel) • [Quick Start](#quick-start) • [Book Partnership Meeting](https://build.fillout.com/editor/ctqhgaBkaKus/share)**
 
-**5.3M+ views. 1100+ stars in days. Help us reach 1,500!** • **Priority partnerships:** Trucking/logistics • Mobile QA testing • [Request meeting →](https://build.fillout.com/editor/ctqhgaBkaKus/share)
+**5.3M+ views. 1100+ stars in days. Help us reach 1,500!** • **Priority partnerships:** Mobile QA testing • Consumer Productivity • [Request meeting →](https://build.fillout.com/editor/ctqhgaBkaKus/share)
 
 </div>
 
